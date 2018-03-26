@@ -1,0 +1,25 @@
+.thumbnail img{
+    width: 100%;
+}
+
+.thumbnail{
+    padding: 0;
+}
+
+.thumbnail .caption-full{
+    padding: 9px;
+}
+
+.delete-form{
+    display: inline;
+}
+
+#comment-discussion{
+    text-align: left;
+    font-size: 18px;
+    display: inline;
+}
+
+.add-new{
+    float: right !important;
+}
